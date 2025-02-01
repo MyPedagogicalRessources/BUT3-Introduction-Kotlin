@@ -7,7 +7,7 @@ fun main() {
     // exo21()
     // exo22()
 
-    val concert1 = Concert("H JeuneCrack", Date(), "Le Bikini")
+    val concert1 = Concert("H JeuneCrack", Date(), "Le Bikini", 10)
     val concert2 = Concert("Mairo", Date(), "Zenith Toulouse")
 
     println(concert1.description())
