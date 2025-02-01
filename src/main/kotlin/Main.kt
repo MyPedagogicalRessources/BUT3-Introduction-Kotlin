@@ -3,5 +3,5 @@ import exos.exo22
 
 fun main() {
     // exo21()
-    exo22()
+    // exo22()
 }
